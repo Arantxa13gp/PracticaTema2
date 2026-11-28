@@ -27,6 +27,7 @@
         <activity android:name=".NuevaTareaActivity" />
         <activity android:name=".TareaActivity" />
         <activity android:name=".PerfilActivity" />
+        <activity android:name=".TitulosActivity"/>
     </application>
 
 </manifest>
